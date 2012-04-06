@@ -8,9 +8,9 @@
 - Redis 2.2+
 - node.js 0.6.14
 - Расширения для php:
-- * phpredis (https://github.com/nicolasff/phpredis)
-- * PDO MySQL extension
-- * php-openssl
+* phpredis (https://github.com/nicolasff/phpredis)
+* PDO MySQL extension
+* php-openssl
 
 ## Конфигурация:
 - Корень apache нужно установить на директорию chat/ и установить AllowOverride All.
