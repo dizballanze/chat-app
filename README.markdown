@@ -1,3 +1,5 @@
+<h1>UWC. Back-end developer 3+</h1>
+
 Для работы приложения необходимо установить:
 Apache2+
 MySQL 5.1+
@@ -22,4 +24,3 @@ php-openssl
 node daemon.js
 
 После этого можно заходить на хост, который указан в настройках apache.
-В случае возникновения вопросов, пишите на dizballanze@gmail.com
