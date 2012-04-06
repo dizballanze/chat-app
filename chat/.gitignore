@@ -1,0 +1,7 @@
+protected/runtime/*
+protected/runtime/application.log
+assets/*
+/tests/_log/
+.idea/
+protected/tests/report/
+photos/

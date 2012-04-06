@@ -1,0 +1,32 @@
+.border-left {border-left: solid black 1px;}
+
+.content-block {background-color: #eeeeee;-webkit-border-radius: 12px;-moz-border-radius: 12px;border-radius: 12px;}
+
+.content-block div {margin: 15px;}
+
+#user-form {margin: 15px;}
+
+.twitter-login {margin-left: 30px;}
+
+.chat-form {padding: 30px;}
+
+.chat-body {height: 400px;}
+.chat-body span8, .chat-body span3 {height: 330px;}
+
+.chat-messages, .users {height: 310px; overflow: auto; margin: 15px;}
+
+.chat-messages .author {color: #4300ff; font-weight: bold;}
+
+.chat-messages .message-text {margin-left:5px;}
+
+.chat-messages .message {margin-bottom: 3px;}
+.chat-messages .service-message {margin-bottom: 3px; font-style: italic; color: #004099; font-size: 85%;}
+
+.user {margin-bottom: 15px;}
+.user .nick-name {font-weight: bold;}
+
+.btn-history {margin-bottom: 15px; margin-left: 220px;}
+
+.btn-history a {color: white;}
+
+.table-striped tr td:first-child {width:15%;font-weight: bold;}
